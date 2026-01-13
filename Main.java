@@ -1,8 +1,8 @@
 import java.util.Scanner;
 class Main{
     // default login credentials
-    static String userName = "wgga";
-    static String password = "2007";
+    static String userName = "Kalidu";
+    static String password = "2005";
 
     static Scanner input = new Scanner(System.in);
 
